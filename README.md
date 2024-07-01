@@ -25,6 +25,9 @@ Youtube bot for auto-like and auto-subscribe
 ```
 Showcase: https://streamable.com/yi7o0
 
+```bash
+git clone https://github.com/CooperDActor-bytes/YouTubeShop.git youtubesubbot
+```
 
 ```bash
 $ pip install requests
